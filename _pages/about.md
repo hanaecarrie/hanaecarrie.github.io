@@ -14,7 +14,7 @@ My research interest is in Computational Cancer Genomics, after a significant ex
 **Computational Analysis of the Next-Generation Sequencing of cell-free DNA data in Liquid Biopsy**.
 I am focusing on two main applications:
 - oncology: Comprehensive Benchmarking of Cancer Somatic Mutation Callers in cell-free DNA, Fragmentomics for Circulating Tumor DNA Quantification
-- noninvasive prenatal testing (NIPT): Reference-free Trisomy Detection \& Fetal Fraction Estimation
+- noninvasive prenatal testing (NIPT): Reference-free Trisomy Detection & Fetal Fraction Estimation
 
 I hold an Engineering Degree from [CentraleSupélec](https://www.centralesupelec.fr/en), part of the [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) in France. I specialised in Biomedical Data Science during my Master and in Electrical Engineering and Computer Science during my Bachelor.
 
