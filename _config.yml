@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanaé CARRIÉ / PhD Candidate in Bioinformatics at National University of Singapore"
+title                    : "Hanaé CARRIÉ / PhD Candidate in Bioinformatics at NUS"
 title_separator          : "-"
 name                     : &name "Hanaé Carrié"
 description              : &description "PhD Candidate in Bioinformatics at National University of Singapore"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
