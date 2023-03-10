@@ -1,16 +1,16 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
     
-  - title: "Projects & Publications"
-    url: /publications/
+  #- title: "Projects & Publications"
+  #  url: /publications/
    
 
-  - title: "Teaching & Volonteering"
-    url: /teaching/    
+  #- title: "Teaching & Volonteering"
+  #  url: /teaching/    
     
         
 
